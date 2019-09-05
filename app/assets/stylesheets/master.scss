@@ -1,5 +1,6 @@
 @import "bootstrap";
 
+
 .booyah-box {
   -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
   -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
@@ -26,4 +27,10 @@ body {
 .navbar {
   background: image_url('mosaic.png');
   box-shadow: 10px 5px 5px grey;
+}
+
+.navbar-inverse .navbar-brand {
+  font-family: 'aguafina_scriptregular', sans-serif;
+  color: #CCB85A;
+  font-size: 26px;
 }

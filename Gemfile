@@ -71,3 +71,4 @@ source 'https://rails-assets.org' do
 end
 
 gem 'kaminari'
+gem 'font-awesome-rails'

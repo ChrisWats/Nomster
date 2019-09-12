@@ -12,9 +12,27 @@
 }
 
 @font-face {
+    font-family: 'air_americaregular';
+    src: url('airamerica-regular-webfont.woff2') format('woff2'),
+         url('airamerica-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
     font-family: 'chunkfive_printregular';
     src: font_url('chunk_five_print-webfont.woff2') format('woff2'),
          font_url('chunk_five_print-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sinkin_sans700_bold';
+    src: url('sinkinsans-700bold-webfont.woff2') format('woff2'),
+         url('sinkinsans-700bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

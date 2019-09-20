@@ -75,3 +75,29 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+.photo-box {
+  display: block;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.front-photo {
+  width: 225px;
+  height: auto;
+  margin: 10px;
+  padding: 5px;
+}
+
+.photo-caption {
+  font-family: 'chunkfive_printregular';
+  font-size: 14px;
+  text-align: left;
+  margin-left: 50px;
+  padding-bottom: 5px;
+  background: #fff;
+}
